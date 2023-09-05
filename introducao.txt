@@ -1,2 +1,6 @@
 Esse projeto é parte do exercício 2 da residência de software do Cepedi.
 O projeto também inclui uma feature navbar.
+Esse projeto é parte do exercício 2 da residência de software do Cepedi.
+O projeto também inclui uma feature navbar.
+Esse projeto é parte do exercício 2 da residência de software do Cepedi.
+O projeto também inclui uma feature navbar.
