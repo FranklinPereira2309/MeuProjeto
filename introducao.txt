@@ -2,7 +2,7 @@ Esse projeto é parte do exercício 2 da residência de software do UESC/CEPEDI.
 O projeto também inclui uma feature navbar.
 Esse projeto é parte do exercício 2 da residência de software do UESC/CEPEDI.
 O projeto também inclui uma feature navbar.
-Esse projeto é parte do exercício 2 da residência de software do Cepedi.
+Esse projeto é parte do exercício 2 da residência de software do TESTANDO.
 <<<<<<< HEAD
 O projeto também inclui uma feature navbar.
 =======
