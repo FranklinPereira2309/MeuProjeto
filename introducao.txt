@@ -1,4 +1,5 @@
 A expressão LOREM IPSUM - 2023 em design gráfico e editoração é um texto padrão em latim utilizado 
->>>>>>> feature/projeto7
 na produção gráfica para preencher os espaços de texto em publicações para testar e ajustar 
 aspectos visuais antes de utilizar conteúdo real. 
+
+Aqui finalizamos o arquivo de introdução para a finalização da Tarefa2 do primeiro módulo.
